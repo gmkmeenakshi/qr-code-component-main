@@ -60,9 +60,10 @@ img {
   padding: 0px 8px;
 }
 
-.text h2 {
+.text h1 {
   color: var(--dark_blue);
   font-weight: var(--bold);
+  font-size: 22px;
   margin-block: 14px;
 }
 
