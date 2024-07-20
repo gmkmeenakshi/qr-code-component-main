@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap");
 html {
   box-sizing: border-box;
   font-size: 100%;
@@ -22,4 +24,18 @@ body {
 :root {
   --regular:400;
   --bold:700;
+  --fs-small:15px;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }/*# sourceMappingURL=style.css.map */
